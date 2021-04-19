@@ -4,4 +4,4 @@
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/<cameron-teed>/<ICS4U-Intro-02-Java-Hello_World>)](https://repl.it/github/<OWNER>/<REPOSITORY>)
+[![Run on Repl.it](https://repl.it/badge/github/<cameron-teed>/<ICS4U-Intro-02-Java-Hello_World>)](https://repl.it/github/<cameron-teed>/<ICS4U-Intro-02-Java-Hello_World>)
