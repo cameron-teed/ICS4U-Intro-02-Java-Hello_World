@@ -28,7 +28,6 @@ steps:
 
 uses: actions/checkout@master
 
-
 - name: Run GitHub Super Linter
 
 uses: github/super-linter@master
